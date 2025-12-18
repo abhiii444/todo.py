@@ -57,8 +57,8 @@ todo.py
 2. Download or clone the repository.
 3. Open terminal or command prompt in the project folder.
 4. Run the program:
-bash
-python todo.py
+   ```bash
+   python todo.py
 
 ---
 
